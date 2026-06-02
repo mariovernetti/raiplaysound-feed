@@ -136,10 +136,12 @@ const audiobookRows = markdownRows(sortedAudiobooks)
 
 const readme = `# RaiPlay Sound Feed
 
-Feed RSS statici per RaiPlay Sound generati tramite GitHub Actions e pubblicati su GitHub Pages.
+Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono generati automaticamente tramite GitHub Actions e GitHub Pages. In modo da potersi abbonare/ascoltare su qualsiasi client podcast  e non esclusivamente tramite l’app RaiPlaySound. 
+
+Questo progetto è una evoluzione di un mio [precedente repository](https://github.com/giuliomagnifico/raiplay-feed),  il quale aveva il problema di non risolvere correttamente la redirect ed era quindi necessario scaricare il file prima di riprodurlo certi podcast.
 
 > [!TIP]
-> Questo repo è la versione modificata, per essere indipendente da un server personale, appoggiandosi solo su GitHub Actions + Pages, da [frammenti/raiplaysoundrss: RSS feed for RaiPlay Sound](https://github.com/frammenti/raiplaysoundrss).
+> È una versione modificata del repository [frammenti/raiplaysoundrss](https://github.com/frammenti/raiplaysoundrss) costruita per poter funzionare usando solo su GitHub, in modo da essere indipendente da un server esterno. 
 
 Gli URL nei feed vengono risolti fino alla CDN finale Rai, evitando i problemi causati dai redirect \`relinkerServlet.htm\` con alcuni client podcast (i.e. [PocketCasts](https://pocketcasts.com/)).
 
@@ -177,13 +179,13 @@ oppure per un audiolibro:
 }
 \`\`\`
 
-Al primo run della Action si aggiorna automaticamente anche la tabella nel README con il nuovo feed in ordine alfabetico.
+> [!NOTE]
+> la tabella con i feeds o audiolibri nuovi si aggiorna  automaticamente con il nuovo feed (in ordine alfabetico) quando viene eseguita la Action, non aggiungere o modificare manualmente la tabella.
 
-## Aggiornamento ogni 2 ore
+## Aggiornamento ogni ora
 
-I feed vengono aggiornati automaticamente tramite GitHub Actions ogni 2 ore e viene controllata la validità degli URL vecchi ogni 14 giorni.
+I feed vengono aggiornati automaticamente tramite GitHub Actions ogni ora e viene controllata la validità degli URL vecchi ogni 14 giorni.
 `
-
 await fs.writeFile('README.md', readme)
 
 await fs.writeFile(
