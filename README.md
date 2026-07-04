@@ -13,7 +13,11 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | Giro del Mondo in una Coppa | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/girodelmondoinunacoppa.xml |
 | GR Friuli Venezia Giulia | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/grfriuliveneziagiulia.xml |
 | GR1 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/gr1.xml |
+| Gr3 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/Gr3.xml |
 | L'edicola di Radio1 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/ledicoladiradio1.xml |
+| L'idealista | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/lidealista.xml |
+| La musica tra le righe | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/lamusicatralerighe.xml |
+| Lezioni di musica | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/lezionidimusica.xml |
 | Lillo e Greg 610 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/lilloegreg610.xml |
 | Number Stations - Le radio delle spie | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/numberstations-leradiodellespie.xml |
 | Pillole di Eta Beta | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/pilloledietabeta.xml |
@@ -23,8 +27,10 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | Radio3 Scienza | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radio3scienza.xml |
 | Revolution | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/revolution.xml |
 | Tra poco in edicola | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/trapocoinedicola.xml |
+| Trenta minuti | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radio3trentaminuti.xml |
 | Tutta la città ne parla | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/tuttalacittaneparla.xml |
 | Un giorno da pecora | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/ungiornodapecora.xml |
+| Wikiradio. Le voci della storia | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/wikiradiolevocidellastoria.xml |
 | Zapping | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/zapping.xml |
 
 ## Audiolibri
