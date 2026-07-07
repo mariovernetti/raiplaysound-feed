@@ -3,7 +3,7 @@ import path from 'path'
 import { buildFeed } from './feed.js'
 import { initCache } from './cache.js'
 
-const BASE_URL = 'https://giuliomagnifico.github.io/raiplaysound-feed'
+const BASE_URL = 'https://mariovernetti.github.io/raiplaysound-feed'
 
 const podcasts = [
   {
@@ -128,6 +128,10 @@ const audiobooks = [
     {
     title: 'Ventimila leghe sotto i mari',
     path: 'audiolibri/ventimilaleghesottoimari'
+  },
+    {
+    title: 'I ragazzi della via Pal',
+    path: 'audiolibri/iragazzidellaviapal'
   }
 ]
 
