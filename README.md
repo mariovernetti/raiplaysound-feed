@@ -7,41 +7,42 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 
 | Programma | Feed RSS |
 |----------|----------|
-| America7 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/america7.xml |
-| Detectives - Casi risolti e irrisolti | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/detectives-casirisoltieirrisolti.xml |
-| Eta Beta | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/etabeta.xml |
-| Giro del Mondo in una Coppa | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/girodelmondoinunacoppa.xml |
-| GR Friuli Venezia Giulia | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/grfriuliveneziagiulia.xml |
-| GR1 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/gr1.xml |
-| Gr3 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/Gr3.xml |
-| L'edicola di Radio1 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/ledicoladiradio1.xml |
-| L'idealista | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/lidealista.xml |
-| La musica tra le righe | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/lamusicatralerighe.xml |
-| Lezioni di musica | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/lezionidimusica.xml |
-| Lillo e Greg 610 | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/lilloegreg610.xml |
-| Number Stations - Le radio delle spie | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/numberstations-leradiodellespie.xml |
-| Pillole di Eta Beta | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/pilloledietabeta.xml |
-| Prima Pagina | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/primapagina.xml |
-| Radio anch'io | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radioanchio.xml |
-| Radio3 Mondo | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radio3mondo.xml |
-| Radio3 Scienza | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radio3scienza.xml |
-| Revolution | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/revolution.xml |
-| Tra poco in edicola | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/trapocoinedicola.xml |
-| Trenta minuti | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/radio3trentaminuti.xml |
-| Tutta la città ne parla | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/tuttalacittaneparla.xml |
-| Un giorno da pecora | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/ungiornodapecora.xml |
-| Wikiradio. Le voci della storia | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/wikiradiolevocidellastoria.xml |
-| Zapping | https://giuliomagnifico.github.io/raiplaysound-feed/rss/programmi/zapping.xml |
+| America7 | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/america7.xml |
+| Detectives - Casi risolti e irrisolti | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/detectives-casirisoltieirrisolti.xml |
+| Eta Beta | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/etabeta.xml |
+| Giro del Mondo in una Coppa | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/girodelmondoinunacoppa.xml |
+| GR Friuli Venezia Giulia | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/grfriuliveneziagiulia.xml |
+| GR1 | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/gr1.xml |
+| Gr3 | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/Gr3.xml |
+| L'edicola di Radio1 | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/ledicoladiradio1.xml |
+| L'idealista | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/lidealista.xml |
+| La musica tra le righe | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/lamusicatralerighe.xml |
+| Lezioni di musica | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/lezionidimusica.xml |
+| Lillo e Greg 610 | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/lilloegreg610.xml |
+| Number Stations - Le radio delle spie | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/numberstations-leradiodellespie.xml |
+| Pillole di Eta Beta | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/pilloledietabeta.xml |
+| Prima Pagina | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/primapagina.xml |
+| Radio anch'io | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/radioanchio.xml |
+| Radio3 Mondo | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/radio3mondo.xml |
+| Radio3 Scienza | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/radio3scienza.xml |
+| Revolution | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/revolution.xml |
+| Tra poco in edicola | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/trapocoinedicola.xml |
+| Trenta minuti | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/radio3trentaminuti.xml |
+| Tutta la città ne parla | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/tuttalacittaneparla.xml |
+| Un giorno da pecora | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/ungiornodapecora.xml |
+| Wikiradio. Le voci della storia | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/wikiradiolevocidellastoria.xml |
+| Zapping | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/zapping.xml |
 
 ## Audiolibri
 
 | Audiolibro | Feed RSS |
 |------------|----------|
-| Arancia meccanica | https://giuliomagnifico.github.io/raiplaysound-feed/rss/audiolibri/aranciameccanica.xml |
-| Cuore di tenebra | https://giuliomagnifico.github.io/raiplaysound-feed/rss/audiolibri/cuoreditenebra.xml |
-| Il grande Gatsby | https://giuliomagnifico.github.io/raiplaysound-feed/rss/audiolibri/ilgrandegatsby.xml |
-| Racconti di Italo Calvino | https://giuliomagnifico.github.io/raiplaysound-feed/rss/audiolibri/raccontidiitalocalvino.xml |
-| Ventimila leghe sotto i mari | https://giuliomagnifico.github.io/raiplaysound-feed/rss/audiolibri/ventimilaleghesottoimari.xml |
+| Arancia meccanica | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/aranciameccanica.xml |
+| Cuore di tenebra | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/cuoreditenebra.xml |
+| I ragazzi della via Pal | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/iragazzidellaviapal.xml |
+| Il grande Gatsby | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/ilgrandegatsby.xml |
+| Racconti di Italo Calvino | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/raccontidiitalocalvino.xml |
+| Ventimila leghe sotto i mari | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/ventimilaleghesottoimari.xml |
 
 ## Abbonarsi o aggiungere un feed
 
