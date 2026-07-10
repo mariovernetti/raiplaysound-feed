@@ -132,7 +132,11 @@ const audiobooks = [
     {
     title: 'I ragazzi della via Pal',
     path: 'audiolibri/iragazzidellaviapal'
-  }
+  },  
+    {
+  title: 'Il sentiero dei nidi di ragno',
+  path: 'audiolibri/ilsentierodeinididiragno'
+}
 ]
 
 const allFeeds = [...podcasts, ...audiobooks]
