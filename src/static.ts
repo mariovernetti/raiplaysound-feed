@@ -136,7 +136,11 @@ const audiobooks = [
     {
   title: 'Il sentiero dei nidi di ragno',
   path: 'audiolibri/ilsentierodeinididiragno'
-}
+  },
+    {
+  title: 'Sorelle Materassi',
+  path: 'audiolibri/sorellematerassi'
+  }
 ]
 
 const allFeeds = [...podcasts, ...audiobooks]
