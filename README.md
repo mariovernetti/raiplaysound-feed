@@ -42,6 +42,7 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | I ragazzi della via Pal | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/iragazzidellaviapal.xml |
 | Il grande Gatsby | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/ilgrandegatsby.xml |
 | Il sentiero dei nidi di ragno | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/ilsentierodeinididiragno.xml |
+| La Linea Dombra | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/lalineadombra.xml |
 | Racconti di Italo Calvino | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/raccontidiitalocalvino.xml |
 | Sorelle Materassi | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/sorellematerassi.xml |
 | Ventimila leghe sotto i mari | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/ventimilaleghesottoimari.xml |
