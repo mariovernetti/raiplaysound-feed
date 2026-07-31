@@ -38,6 +38,7 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | Audiolibro | Feed RSS |
 |------------|----------|
 | Arancia meccanica | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/aranciameccanica.xml |
+| Canne al vento | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/cannealvento.xml |
 | Cuore di tenebra | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/cuoreditenebra.xml |
 | I ragazzi della via Pal | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/iragazzidellaviapal.xml |
 | Il grande Gatsby | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/ilgrandegatsby.xml |
