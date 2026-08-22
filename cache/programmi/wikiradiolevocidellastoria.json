@@ -65,9 +65,9 @@
     "resolvedAt": 1787276486891
   },
   "ContentItem-577a85ab-6e2d-48bc-b45e-19faeabc0b08": {
-    "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/29880881_1800.mp3",
+    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/29880881_1800.mp3",
     "date": "2026-07-09T12:33:00.000Z",
-    "resolvedAt": 1786071272904
+    "resolvedAt": 1787362516091
   },
   "ContentItem-f31d3e36-3e73-4a8e-87f1-8248341852d4": {
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/29888072_1800.mp3",
@@ -115,9 +115,9 @@
     "resolvedAt": 1787276486238
   },
   "ContentItem-c8081690-d55a-4109-916c-56c388cc1ea3": {
-    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/29979424_1800.mp3",
+    "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/29979424_1800.mp3",
     "date": "2026-07-23T12:40:00.000Z",
-    "resolvedAt": 1786071271946
+    "resolvedAt": 1787362515536
   },
   "ContentItem-aff218f5-0fa3-4975-94ce-dadbd6408ac8": {
     "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/29986751_1800.mp3",
@@ -167,7 +167,7 @@
   "ContentItem-c8ecd9b5-da60-4f4b-a8e6-1fdb381f0567": {
     "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30073776_1800.mp3",
     "date": "2026-08-06T12:35:00.000Z",
-    "resolvedAt": 1786071271010
+    "resolvedAt": 1787362514863
   },
   "ContentItem-23988114-ff3d-4694-89f6-e7e58f5d4b88": {
     "mp3": "https://creativemedia3-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30081218_1800.mp3",
@@ -218,5 +218,10 @@
     "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30161114_1800.mp3",
     "date": "2026-08-20T12:56:00.000Z",
     "resolvedAt": 1787276484821
+  },
+  "ContentItem-6592ed6b-af96-4fcc-853d-19910275f02f": {
+    "mp3": "https://creativemedia4-rai-it.akamaized.net/podcastcdn/Rai/audiocut/30167828_1800.mp3",
+    "date": "2026-08-21T13:06:00.000Z",
+    "resolvedAt": 1787362514328
   }
 }
