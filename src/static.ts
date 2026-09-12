@@ -9,125 +9,13 @@ const podcasts = [
   {
     title: 'Radio3 Scienza',
     path: 'programmi/radio3scienza'
-  },
-  {
-    title: 'Zapping',
-    path: 'programmi/zapping'
-  },
-    {
-    title: 'GR1',
-    path: 'programmi/gr1'
-  },
-    {
-    title: 'GR Friuli Venezia Giulia',
-    path: 'programmi/grfriuliveneziagiulia'
-  },
-  {
-    title: "Radio anch'io",
-    path: 'programmi/radioanchio'
-  },
-  {
-    title: 'Radio3 Mondo',
-    path: 'programmi/radio3mondo'
-  },
-  {
-    title: 'America7',
-    path: 'programmi/america7'
-  },
-  {
-    title: 'Eta Beta',
-    path: 'programmi/etabeta'
-  },
-  {
-    title: 'Detectives - Casi risolti e irrisolti',
-    path: 'programmi/detectives-casirisoltieirrisolti'
-  },
-  {
-    title: "L'edicola di Radio1",
-    path: 'programmi/ledicoladiradio1'
-  },
-  {
-    title: 'Prima Pagina',
-    path: 'programmi/primapagina'
-  },
-  {
-    title: 'Revolution',
-    path: 'programmi/revolution'
-  },
-  {
-    title: 'Tutta la città ne parla',
-    path: 'programmi/tuttalacittaneparla'
-  },
-  {
-    title: 'Tra poco in edicola',
-    path: 'programmi/trapocoinedicola'
-  },
-    {
-    title: 'Lillo e Greg 610',
-    path: 'programmi/lilloegreg610'
-  },
-  {
-    title: 'Un giorno da pecora',
-    path: 'programmi/ungiornodapecora'
-  },
-  {
-    title: 'Number Stations - Le radio delle spie',
-    path: 'programmi/numberstations-leradiodellespie'
-  },
-    {
-    title: 'Pillole di Eta Beta',
-    path: 'programmi/pilloledietabeta'
-  },
-  {
-    title: 'Gr3',
-    path: 'programmi/Gr3'
-  },
-  {
-    title: 'Wikiradio. Le voci della storia',
-    path: 'programmi/wikiradiolevocidellastoria'
-  },
-  {
-    title: "L'idealista",
-    path: 'programmi/lidealista'
-  },
-  {
-    title: 'La musica tra le righe',
-    path: 'programmi/lamusicatralerighe'
-  },
-   {
-    title: 'Giro del Mondo in una Coppa',
-    path: 'programmi/girodelmondoinunacoppa'
-  },
-  {
-  title: 'Lezioni di musica',
-  path: 'programmi/lezionidimusica'
-},
-  {
-  title: 'Trenta minuti',
-  path: 'programmi/radio3trentaminuti'
-}
+  }
 ]
 
 const audiobooks = [
-  {
-    title: 'Arancia meccanica',
-    path: 'audiolibri/aranciameccanica'
-  },
     {
-    title: 'Cuore di tenebra',
-    path: 'audiolibri/cuoreditenebra'
-  },
-    {
-    title: 'Il grande Gatsby',
-    path: 'audiolibri/ilgrandegatsby'
-  },
-    {
-    title: 'Racconti di Italo Calvino',
-    path: 'audiolibri/raccontidiitalocalvino'
-  },
-    {
-    title: 'Ventimila leghe sotto i mari',
-    path: 'audiolibri/ventimilaleghesottoimari'
+    title: 'latigredimompracen',
+    path: 'audiolibri/latigredimompracen'
   },
     {
     title: 'I ragazzi della via Pal',
@@ -162,6 +50,11 @@ const audiobooks = [
   {
   title: 'Da Quarto al Volturno',
   path: 'audiolibri/daquartoalvolturno'
+  },
+
+  {
+  title: 'Il Cappello del Prete',
+  path: 'audiolibri/ilcappellodelprete'
   },
 
   
