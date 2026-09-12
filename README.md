@@ -7,48 +7,21 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 
 | Programma | Feed RSS |
 |----------|----------|
-| America7 | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/america7.xml |
-| Detectives - Casi risolti e irrisolti | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/detectives-casirisoltieirrisolti.xml |
-| Eta Beta | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/etabeta.xml |
-| Giro del Mondo in una Coppa | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/girodelmondoinunacoppa.xml |
-| GR Friuli Venezia Giulia | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/grfriuliveneziagiulia.xml |
-| GR1 | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/gr1.xml |
-| Gr3 | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/Gr3.xml |
-| L'edicola di Radio1 | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/ledicoladiradio1.xml |
-| L'idealista | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/lidealista.xml |
-| La musica tra le righe | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/lamusicatralerighe.xml |
-| Lezioni di musica | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/lezionidimusica.xml |
-| Lillo e Greg 610 | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/lilloegreg610.xml |
-| Number Stations - Le radio delle spie | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/numberstations-leradiodellespie.xml |
-| Pillole di Eta Beta | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/pilloledietabeta.xml |
-| Prima Pagina | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/primapagina.xml |
-| Radio anch'io | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/radioanchio.xml |
-| Radio3 Mondo | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/radio3mondo.xml |
 | Radio3 Scienza | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/radio3scienza.xml |
-| Revolution | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/revolution.xml |
-| Tra poco in edicola | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/trapocoinedicola.xml |
-| Trenta minuti | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/radio3trentaminuti.xml |
-| Tutta la città ne parla | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/tuttalacittaneparla.xml |
-| Un giorno da pecora | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/ungiornodapecora.xml |
-| Wikiradio. Le voci della storia | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/wikiradiolevocidellastoria.xml |
-| Zapping | https://mariovernetti.github.io/raiplaysound-feed/rss/programmi/zapping.xml |
 
 ## Audiolibri
 
 | Audiolibro | Feed RSS |
 |------------|----------|
-| Arancia meccanica | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/aranciameccanica.xml |
 | Canne al vento | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/cannealvento.xml |
-| Cuore di tenebra | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/cuoreditenebra.xml |
 | Da Quarto al Volturno | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/daquartoalvolturno.xml |
 | I ragazzi della via Pal | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/iragazzidellaviapal.xml |
-| Il grande Gatsby | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/ilgrandegatsby.xml |
+| Il Cappello del Prete | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/ilcappellodelprete.xml |
 | Il sentiero dei nidi di ragno | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/ilsentierodeinididiragno.xml |
 | La Linea Dombra | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/lalineadombra.xml |
+| latigredimompracen | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/latigredimompracen.xml |
 | Ledera | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/ledera.xml |
-| Racconti di Italo Calvino | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/raccontidiitalocalvino.xml |
 | Sorelle Materassi | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/sorellematerassi.xml |
-| Ventimila leghe sotto i mari | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/ventimilaleghesottoimari.xml |
 
 ## Abbonarsi o aggiungere un feed
 
