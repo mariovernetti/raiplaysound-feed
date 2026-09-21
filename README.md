@@ -13,6 +13,7 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 
 | Audiolibro | Feed RSS |
 |------------|----------|
+| Alpinisti Ciabattoni | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/alpinisticiabattoni.xml |
 | Canne al vento | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/cannealvento.xml |
 | Da Quarto al Volturno | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/daquartoalvolturno.xml |
 | I ragazzi della via Pal | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/iragazzidellaviapal.xml |
