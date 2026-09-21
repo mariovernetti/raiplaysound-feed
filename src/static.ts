@@ -56,6 +56,11 @@ const audiobooks = [
   title: 'Il Cappello del Prete',
   path: 'audiolibri/ilcappellodelprete'
   },
+  
+  {
+  title: 'Alpinisti Ciabattoni',
+  path: 'audiolibri/alpinisticiabattoni'
+  },
 
   
 ]
