@@ -62,6 +62,12 @@ const audiobooks = [
   path: 'audiolibri/alpinisticiabattoni'
   },
 
+  {
+  title: 'Uova fatali',
+  path: 'audiolibri/uovafatali'
+  },
+
+
   
 ]
 
