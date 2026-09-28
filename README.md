@@ -23,6 +23,7 @@ Questo repository genera dei feed RSS per i programmi di RaiPlay Sound, e sono g
 | latigredimompracen | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/latigredimompracen.xml |
 | Ledera | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/ledera.xml |
 | Sorelle Materassi | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/sorellematerassi.xml |
+| Uova fatali | https://mariovernetti.github.io/raiplaysound-feed/rss/audiolibri/uovafatali.xml |
 
 ## Abbonarsi o aggiungere un feed
 
